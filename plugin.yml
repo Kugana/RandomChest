@@ -1,0 +1,9 @@
+name: RandomChest
+main: RandomChest.Main.RandomChest
+version: 1.0.0
+description: RandomChest
+author: Hu Yu Wei
+commands: 
+  rac:
+Permission:
+  
